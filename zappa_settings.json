@@ -1,0 +1,12 @@
+{
+    "dev": {
+        "app_function": "index.app",
+        "aws_region": "us-east-1",
+        "profile_name": "default",
+        "project_name": "stitching",
+        "runtime": "python3.6",
+        "isBase64Encoded": false,
+        "s3_bucket": "zappa-qwi140rfz",
+        "slim_handler": true
+    }
+}
